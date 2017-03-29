@@ -22,13 +22,13 @@ h1 {
   text-align: center;
   text-decoration:underline;
   line-height: 1;
+  margin-bottom: 15px;
 }
 h2 {
   padding-left: 20px;
   margin-bottom: -50px;
   font-size: 32px;
   line-height: 1;	
-  margin-bottom: 15px;
 }
 .main {
   width: 500px;
